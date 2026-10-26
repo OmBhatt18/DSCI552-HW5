@@ -1,0 +1,10 @@
+# only the submission files are tracked
+*
+!.gitignore
+!README.md
+!Bhatt_Om_HW5_v2.ipynb
+!Bhatt_Om_HW5_v2.html
+!communities.data
+!communities.names
+!diagnosis.data
+!diagnosis.names
